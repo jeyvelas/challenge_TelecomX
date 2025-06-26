@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 ![grafico_tipo_contrato](Graficas/grafico_tipo_contrato.png)
 
 - Dentro del modelo de predicción de churn, el método de pago mediante cheque electrónico muestra un coeficiente positivo, lo que sugiere un impacto directo en el aumento de la probabilidad de abandono del servicio.
-![grafico_metodos de pago.png](images/grafico_metodos_de_pago.png)
+![grafico_metodos de pago.png](images/grafico_metodosdepago.png)
 
 - Los clientes que cancelan suelen presentar menor antigüedad y bajo gasto acumulado, reflejo de una permanencia limitada en el servicio.
 
