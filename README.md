@@ -10,3 +10,14 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 🔸 **Google Colab** como entorno de desarrollo  
 🔸 **GitHub** y **Markdown** para documentación
 
+📌 **Objetivos**
+
+🔍 Analizar la tasa de cancelación de clientes mediante métricas descriptivas y segmentación temporal, con el objetivo de cuantificar su magnitud y evolución.
+📊 Examinar la relación entre variables demográficas, contractuales y financieras utilizando técnicas estadísticas (como análisis de correlación, pruebas de hipótesis y modelos predictivos) para identificar factores asociados al churn.
+🧠 Detectar perfiles de alto riesgo de cancelación mediante análisis multivariado y algoritmos de clasificación, permitiendo una segmentación precisa de clientes según su propensión al abandono.
+📌 Generar recomendaciones basadas en datos orientadas a la retención, mediante la interpretación de patrones identificados y la simulación de escenarios de intervención.
+
+📊 **Resultados Clave**
+
+El análisis muestra una correlación positiva entre la modalidad de contrato mensual y la tasa de cancelación, indicando un mayor riesgo de churn en este grupo.
+README.md: "https://github.com/jeyvelas/challenge_TelecomX/blob/main/Graficas/grafico_tipo_contrato.png"
