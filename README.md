@@ -20,4 +20,6 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 📊 **Resultados Clave**
 
 El análisis muestra una correlación positiva entre la modalidad de contrato mensual y la tasa de cancelación, indicando un mayor riesgo de churn en este grupo.
-README.md: "https://github.com/jeyvelas/challenge_TelecomX/blob/main/Graficas/grafico_tipo_contrato.png"
+![grafico_tipo_contrato](Graficas/grafico_tipo_contrato.png)
+
+
