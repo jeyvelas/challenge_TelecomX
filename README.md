@@ -19,7 +19,13 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 
 📊 **Resultados Clave**
 
-El análisis muestra una correlación positiva entre la modalidad de contrato mensual y la tasa de cancelación, indicando un mayor riesgo de churn en este grupo.
+- El análisis muestra una correlación positiva entre la modalidad de contrato mensual y la tasa de cancelación, indicando un mayor riesgo de churn en este grupo.
 ![grafico_tipo_contrato](Graficas/grafico_tipo_contrato.png)
+
+- Dentro del modelo de predicción de churn, el método de pago mediante cheque electrónico muestra un coeficiente positivo, lo que sugiere un impacto directo en el aumento de la probabilidad de abandono del servicio.
+![grafico_metodos de pago](Graficas/grafico_metodos de pago.png)
+
+- Los clientes que cancelan suelen presentar menor antigüedad y bajo gasto acumulado, reflejo de una permanencia limitada en el servicio.
+
 
 
