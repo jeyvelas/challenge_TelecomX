@@ -1,8 +1,8 @@
-📡 **TelecomX Challenge - Análisis de Cancelación de Clientes (Churn)**
+#📡 **TelecomX Challenge - Análisis de Cancelación de Clientes (Churn)**
 
 Este proyecto tiene como objetivo analizar los factores determinantes del churn en una compañía de telecomunicaciones mediante técnicas de análisis exploratorio de datos, visualización estadística y modelado. El propósito es identificar patrones significativos y variables predictoras asociadas a la cancelación del servicio, con el fin de diseñar estrategias basadas en datos que contribuyan a reducir la tasa de pérdida de clientes y fortalecer su fidelización.
 
-🧰 **Herramientas Utilizadas**
+##🧰 **Herramientas Utilizadas**
 
 🔸 **Python**  
 🔸 **Pandas** y **NumPy** para manipulación de datos  
@@ -10,14 +10,14 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 🔸 **Google Colab** como entorno de desarrollo  
 🔸 **GitHub** y **Markdown** para documentación
 
-📌 **Objetivos**
+##📌 **Objetivos**
 
 🔍 Analizar la tasa de cancelación de clientes mediante métricas descriptivas y segmentación temporal, con el objetivo de cuantificar su magnitud y evolución.
 📊 Examinar la relación entre variables demográficas, contractuales y financieras utilizando técnicas estadísticas (como análisis de correlación, pruebas de hipótesis y modelos predictivos) para identificar factores asociados al churn.
 🧠 Detectar perfiles de alto riesgo de cancelación mediante análisis multivariado y algoritmos de clasificación, permitiendo una segmentación precisa de clientes según su propensión al abandono.
 📌 Generar recomendaciones basadas en datos orientadas a la retención, mediante la interpretación de patrones identificados y la simulación de escenarios de intervención.
 
-📊 **Resultados Clave**
+##📊 **Resultados Clave**
 
 - El análisis muestra una correlación positiva entre la modalidad de contrato mensual y la tasa de cancelación, indicando un mayor riesgo de churn en este grupo.
 ![grafico_tipo_contrato](Graficas/grafico_tipo_contrato.png)
@@ -28,20 +28,20 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 - Los clientes que cancelan suelen presentar menor antigüedad y bajo gasto acumulado, reflejo de una permanencia limitada en el servicio.
 ![grafico_cuentas_tiempo](Graficas/grafico_cuentas_tiempo.png)
 
--Un mayor gasto mensual combinado con baja antigüedad se asocia con una mayor probabilidad de cancelación, lo que sugiere que los clientes con tarifas elevadas y poca fidelización tienden a abandonar el servicio dentro del primer año.
+- Un mayor gasto mensual combinado con baja antigüedad se asocia con una mayor probabilidad de cancelación, lo que sugiere que los clientes con tarifas elevadas y poca fidelización tienden a abandonar el servicio dentro del primer año.
 ![comparacion_pago_mes_dia_y_tiempo](Graficas/comparacion_pago_mes_dia_y_tiempo.png)
 
--El uso de fibra óptica se asocia con una mayor tasa de cancelación en comparación con el servicio DSL.
+- El uso de fibra óptica se asocia con una mayor tasa de cancelación en comparación con el servicio DSL.
 ![tipos_servicios](Graficas/tipos_servicios.png)
 
--Combinaciones específicas de variables incrementan la precisión en la predicción del riesgo de cancelación.
+- Combinaciones específicas de variables incrementan la precisión en la predicción del riesgo de cancelación.
 ![top_correlacion_cancelacion](Graficas/top_correlacion_cancelacion.png)
 
--Tipos de clientes: Edad, género y dependientes a cargo.
+- Tipos de clientes: Edad, género y dependientes a cargo.
 ![clientes_jubilados](Graficas/clientes_jubilados.png)
 ![genero_y_dependencia.png](Graficas/genero_y_dependencia.png)
 
--🔧 Recomendaciones
+##- 🔧 **Recomendaciones**
 
 🧭 Promover contratos de mayor duración mediante incentivos, para reducir la probabilidad de churn.
 
