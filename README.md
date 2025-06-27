@@ -22,25 +22,32 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 
 ## 📊 **Resultados Clave**
 
-- El análisis muestra una correlación positiva entre la modalidad de contrato mensual y la tasa de cancelación, indicando un mayor riesgo de churn en este grupo.
+###- El análisis muestra una correlación positiva entre la modalidad de contrato mensual y la tasa de cancelación, indicando un mayor riesgo de churn en este grupo.
+  
 ![grafico_tipo_contrato](Graficas/grafico_tipo_contrato.png)
 
-- Dentro del modelo de predicción de churn, el método de pago mediante cheque electrónico muestra un coeficiente positivo, lo que sugiere un impacto directo en el aumento de la probabilidad de abandono del servicio.
+###- Dentro del modelo de predicción de churn, el método de pago mediante cheque electrónico muestra un coeficiente positivo, lo que sugiere un impacto directo en el aumento de la probabilidad de abandono del servicio.
+  
 ![grafico_metodos de pago.png](Graficas/grafico_metodos_pago.png)
 
-- Los clientes que cancelan suelen presentar menor antigüedad y bajo gasto acumulado, reflejo de una permanencia limitada en el servicio.
+###- Los clientes que cancelan suelen presentar menor antigüedad y bajo gasto acumulado, reflejo de una permanencia limitada en el servicio.
+  
 ![grafico_cuentas_tiempo](Graficas/grafico_cuentas_tiempo.png)
 
-- Un mayor gasto mensual combinado con baja antigüedad se asocia con una mayor probabilidad de cancelación, lo que sugiere que los clientes con tarifas elevadas y poca fidelización tienden a abandonar el servicio dentro del primer año.
+###- Un mayor gasto mensual combinado con baja antigüedad se asocia con una mayor probabilidad de cancelación, lo que sugiere que los clientes con tarifas elevadas y poca fidelización tienden a abandonar el servicio dentro del primer año.
+  
 ![comparacion_pago_mes_dia_y_tiempo](Graficas/comparacion_pago_mes_dia_y_tiempo.png)
 
-- El uso de fibra óptica se asocia con una mayor tasa de cancelación en comparación con el servicio DSL.
+###- El uso de fibra óptica se asocia con una mayor tasa de cancelación en comparación con el servicio DSL.
+  
 ![tipos_servicios](Graficas/tipos_servicios.png)
 
-- Combinaciones específicas de variables incrementan la precisión en la predicción del riesgo de cancelación.
+###- Combinaciones específicas de variables incrementan la precisión en la predicción del riesgo de cancelación.
+  
 ![top_correlacion_cancelacion](Graficas/top_correlacion_cancelacion.png)
 
-- Tipos de clientes: Edad, género y dependientes a cargo.
+###- Tipos de clientes: Edad, género y dependientes a cargo.
+  
 ![clientes_jubilados](Graficas/clientes_jubilados.png)
 ![genero_y_dependencia.png](Graficas/genero_y_dependencia.png)
 
@@ -62,6 +69,6 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 
 
 
-**✍️Creado por: Jeison Velasco**
+###**✍️Creado por: Jeison Velasco**
 
 
