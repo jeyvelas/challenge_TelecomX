@@ -69,6 +69,7 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 
 
 
-**✍️Creado por: Jeison Velasco**
+
+##**✍️Creado por: Jeison Velasco**
 
 
