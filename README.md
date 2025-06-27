@@ -26,6 +26,30 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 ![grafico_metodos de pago.png](Graficas/grafico_metodos_pago.png)
 
 - Los clientes que cancelan suelen presentar menor antigüedad y bajo gasto acumulado, reflejo de una permanencia limitada en el servicio.
+![grafico_cuentas_tiempo](Graficas/grafico_cuentas_tiempo.png)
 
+-Un mayor gasto mensual combinado con baja antigüedad se asocia con una mayor probabilidad de cancelación, lo que sugiere que los clientes con tarifas elevadas y poca fidelización tienden a abandonar el servicio dentro del primer año.
+![comparacion_pago_mes_dia_y_tiempo](Graficas/comparacion_pago_mes_dia_y_tiempo.png)
+
+-El uso de fibra óptica se asocia con una mayor tasa de cancelación en comparación con el servicio DSL.
+![tipos_servicios](Graficas/tipos_servicios.png)
+
+-Combinaciones específicas de variables incrementan la precisión en la predicción del riesgo de cancelación.
+![top_correlacion_cancelacion](Graficas/top_correlacion_cancelacion.png)
+
+-Tipos de clientes: Edad, género y dependientes a cargo.
+![clientes_jubilados,genero_y_dependencia](Graficas/clientes_jubilados.png,genero_y_dependencia.png)
+
+-🔧 Recomendaciones
+
+🧭 Promover contratos de mayor duración mediante incentivos, para reducir la probabilidad de churn.
+💳 Fomentar métodos de pago automáticos, asociados con menor tasa de cancelación.
+📉 Monitorear clientes con alto costo mensual o diario, dada su mayor propensión al abandono.
+🎯 Ofrecer beneficios por permanencia o tarifas decrecientes para reforzar la fidelización.
+🔌 Optimizar los planes de fibra óptica con mejoras en valor percibido y soporte, dada su asociación con mayor churn.
+🧬 Aplicar segmentación de riesgo para personalizar estrategias de retención.
+🚨 Implementar alertas tempranas basadas en patrones de comportamiento predictivos de cancelación.
+
+**Creado por: Jeison Velasco**
 
 
