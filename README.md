@@ -39,7 +39,6 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 
 - Combinaciones específicas de variables incrementan la precisión en la predicción del riesgo de cancelación.
 ![top_correlacion_cancelacion](Graficas/top_correlacion_cancelacion.png)
-<img src="top_correlacion_cancelacion.png" alt="top_correlacion_cancelacion" width="300" height="200">
 
 - Tipos de clientes: Edad, género y dependientes a cargo.
 ![clientes_jubilados](Graficas/clientes_jubilados.png)
