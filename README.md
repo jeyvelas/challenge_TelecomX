@@ -13,8 +13,11 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 ## 📌 **Objetivos**
 
 🔍 Analizar la tasa de cancelación de clientes mediante métricas descriptivas y segmentación temporal, con el objetivo de cuantificar su magnitud y evolución.
+
 📊 Examinar la relación entre variables demográficas, contractuales y financieras utilizando técnicas estadísticas (como análisis de correlación, pruebas de hipótesis y modelos predictivos) para identificar factores asociados al churn.
+
 🧠 Detectar perfiles de alto riesgo de cancelación mediante análisis multivariado y algoritmos de clasificación, permitiendo una segmentación precisa de clientes según su propensión al abandono.
+
 📌 Generar recomendaciones basadas en datos orientadas a la retención, mediante la interpretación de patrones identificados y la simulación de escenarios de intervención.
 
 ## 📊 **Resultados Clave**
@@ -57,6 +60,8 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 
 🚨 Implementar alertas tempranas basadas en patrones de comportamiento predictivos de cancelación.
 
-**Creado por: Jeison Velasco**
+
+
+**✍️Creado por: Jeison Velasco**
 
 
