@@ -38,16 +38,23 @@ Este proyecto tiene como objetivo analizar los factores determinantes del churn 
 ![top_correlacion_cancelacion](Graficas/top_correlacion_cancelacion.png)
 
 -Tipos de clientes: Edad, género y dependientes a cargo.
-![clientes_jubilados,genero_y_dependencia](Graficas/clientes_jubilados.png,genero_y_dependencia.png)
+![clientes_jubilados](Graficas/clientes_jubilados.png)
+![genero_y_dependencia.png](Graficas/genero_y_dependencia.png)
 
 -🔧 Recomendaciones
 
 🧭 Promover contratos de mayor duración mediante incentivos, para reducir la probabilidad de churn.
+
 💳 Fomentar métodos de pago automáticos, asociados con menor tasa de cancelación.
+
 📉 Monitorear clientes con alto costo mensual o diario, dada su mayor propensión al abandono.
+
 🎯 Ofrecer beneficios por permanencia o tarifas decrecientes para reforzar la fidelización.
+
 🔌 Optimizar los planes de fibra óptica con mejoras en valor percibido y soporte, dada su asociación con mayor churn.
+
 🧬 Aplicar segmentación de riesgo para personalizar estrategias de retención.
+
 🚨 Implementar alertas tempranas basadas en patrones de comportamiento predictivos de cancelación.
 
 **Creado por: Jeison Velasco**
